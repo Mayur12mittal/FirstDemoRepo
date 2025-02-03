@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Mayur");
-
+        System.out.println("This project is used for Git Demo");
     }
 }
